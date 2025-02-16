@@ -1,4 +1,9 @@
-# ILV_TCG_Builds
-Illuvium TCG Builds Repository
+# Builds Repository for Drone Dome - Illuvium TCG
 
-Download and try all the features. Solo, Adventure, Multiplayer. No User Data yet, just create a Random User to playtest.
+Download and test all the features. Solo, Adventure, Multiplayer. Buy Packs, Sell/Buy Cards, Build your Decks.
+
+Work in Progress:
+- Earth and Air Cards
+- Companion Illuvial
+- Composite Affinity Powers and Deck Building Limitation
+- Most cards are still Placeholders and have no proper balancing and or their final abilities etc.
