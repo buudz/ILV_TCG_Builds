@@ -1,4 +1,4 @@
-# Builds Repository for Drone Dome - Illuvium TCG
+# Builds Repository for Leviathan Beyond, the Illuvium TCG
 
 Download and test all the features. Solo, Adventure, Multiplayer. Buy Packs, Sell/Buy Cards, Build your Decks.
 
