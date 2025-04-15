@@ -2,4 +2,4 @@
 
 Download and test all the current features. 
 
-Buy Packs, Sell/Buy Cards, Build your Decks. Play in Solo, Adventure and Multiplayer Modes. 
+Play in Solo, Adventure and Multiplayer Modes. 
