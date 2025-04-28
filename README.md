@@ -1,4 +1,4 @@
-# Builds Repository for Leviathan Beyond, the Illuvium TCG
+# Builds Repository for DroneStone, the Illuvium TCG
 
 Download and test all the current features.
 
@@ -13,3 +13,4 @@ Download and test all the current features.
 
 - Add your friends, chat with them and check out where you rank in the global Leaderboard.
 
+Join our Discord Server to stay up to date with the project and submit feedback: https://discord.gg/mMPSfKXNTg
